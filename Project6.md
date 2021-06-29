@@ -33,4 +33,12 @@
 * Changed directory to /var/www/html
 * Installed mysql on the DB server
 * Created a wordpress database and created a wordpress user with a password
+* <img width="1646" alt="PROJECT 6 WORDPRESS DB" src="https://user-images.githubusercontent.com/86001367/123792749-e0252b80-d8d8-11eb-95c9-fddfaad213cb.png">
+* <img width="1253" alt="PROJECT 6 SQL HOST" src="https://user-images.githubusercontent.com/86001367/123792873-02b74480-d8d9-11eb-991e-4adbe299dbd3.png">
+* <img width="1665" alt="PROJECT 6 WORDPRESS SITE" src="https://user-images.githubusercontent.com/86001367/123792931-1793d800-d8d9-11eb-96af-6f3041036eb7.png">
+* <img width="1664" alt="PROJECT 6 WEBSEVER TO DB SERVER CONNECTION" src="https://user-images.githubusercontent.com/86001367/123792995-28dce480-d8d9-11eb-90a4-27bc423ab94d.png">
+
+
+
+
 * Granted and flushed privileges
